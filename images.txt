@@ -1,3 +1,4 @@
+redis
 xhofe/alist:latest
 iaoyaliu/alist
 ghcr.io/sagernet/sing-box
