@@ -2,3 +2,4 @@ redis
 ghcr.io/sagernet/sing-box
 nyanmisaka/jellyfin
 ghcr.io/imagegenius/immich:openvino
+gzxhwq/sing-box
