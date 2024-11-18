@@ -6,3 +6,4 @@ gzxhwq/sing-box
 dreamacro/clash
 irinesistiana/mosdns
 metacubex/mihomo:latest
+ghcr.io/metacubex/metacubexd
