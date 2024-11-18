@@ -5,3 +5,4 @@ ghcr.io/imagegenius/immich:openvino
 gzxhwq/sing-box
 dreamacro/clash
 irinesistiana/mosdns
+pull metacubex/mihomo:latest
