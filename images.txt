@@ -7,4 +7,4 @@ dreamacro/clash
 irinesistiana/mosdns
 metacubex/mihomo:latest
 ghcr.io/metacubex/metacubexd
-ghcr.io/wg-easy/wg-easy:
+ghcr.io/wg-easy/wg-easy
