@@ -10,3 +10,4 @@ ghcr.io/metacubex/metacubexd
 ghcr.io/wg-easy/wg-easy
 teddysun/shadowsocks-libev
 mobtitude/vpn-pptp
+hwdsl2/ipsec-vpn-server
