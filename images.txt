@@ -21,3 +21,4 @@ teddysun/shadowsocks-libev
 mobtitude/vpn-pptp
 hwdsl2/ipsec-vpn-server
 joplin/server:latest
+netdata/netdata
