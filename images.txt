@@ -1,4 +1,13 @@
 redis
+nginx
+minio/minio
+pgvector/pgvector:pg16
+appflowyinc/gotrue
+appflowyinc/appflowy_cloud
+appflowyinc/admin_frontend
+appflowyinc/appflowy_ai
+appflowyinc/appflowy_worker
+appflowyinc/appflowy_web
 ghcr.io/sagernet/sing-box
 nyanmisaka/jellyfin
 ghcr.io/imagegenius/immich:openvino
