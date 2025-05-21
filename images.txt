@@ -16,9 +16,9 @@ dreamacro/clash
 irinesistiana/mosdns
 metacubex/mihomo:latest
 ghcr.io/metacubex/metacubexd
-ghcr.io/wg-easy/wg-easy:latest
 teddysun/shadowsocks-libev
 mobtitude/vpn-pptp
 hwdsl2/ipsec-vpn-server
 joplin/server:latest
 netdata/netdata:latest
+ghcr.io/wg-easy/wg-easy:14
