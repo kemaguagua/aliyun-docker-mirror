@@ -2,15 +2,9 @@ redis
 nginx
 minio/minio
 pgvector/pgvector:pg16
-appflowyinc/gotrue
-appflowyinc/appflowy_cloud
-appflowyinc/admin_frontend
-appflowyinc/appflowy_ai
-appflowyinc/appflowy_worker
-appflowyinc/appflowy_web
 ghcr.io/sagernet/sing-box
-nyanmisaka/jellyfin
-ghcr.io/imagegenius/immich:openvino
+nyanmisaka/jellyfin:latest
+ghcr.io/imagegenius/immich:latest
 gzxhwq/sing-box
 dreamacro/clash
 irinesistiana/mosdns
@@ -22,3 +16,5 @@ hwdsl2/ipsec-vpn-server
 joplin/server:latest
 netdata/netdata:latest
 ghcr.io/wg-easy/wg-easy:14
+filebrowser/filebrowser
+ghcr.io/metatube-community/metatube-server:latest
