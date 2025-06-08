@@ -19,6 +19,6 @@ ghcr.io/wg-easy/wg-easy:14
 filebrowser/filebrowser
 ghcr.io/metatube-community/metatube-server:latest
 likun7981/hlink:latest
-ChineseSubFinder/ChineseSubFinder:latest
+allanpk716/chinesesubfinder:v0.55.3
 xhongc/music_tag_web:latest
 deluan/navidrome:latest
