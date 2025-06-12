@@ -1,7 +1,6 @@
 redis
 nginx
 minio/minio
-pgvector/pgvector:pg16
 ghcr.io/sagernet/sing-box
 nyanmisaka/jellyfin:latest
 ghcr.io/imagegenius/immich:latest
@@ -27,3 +26,7 @@ ghcr.io/c4illin/convertx
 jxxghp/moviepilot-v2:latest
 linuxserver/transmission:version-3.00-r8
 linuxserver/qbittorrent:5.1.0
+adminer:latest
+mariadb:11
+tensorchord/pgvecto-rs:pg16-v0.2.0@sha256:592cac7b88a6443a9b06dfc0248b847ee3b20971244be3ea9bf259b01fe1621e
+docker.io/valkey/valkey:8-bookworm@sha256:42cba146593a5ea9a622002c1b7cba5da7be248650cbb64ecb9c6c33d29794b1
