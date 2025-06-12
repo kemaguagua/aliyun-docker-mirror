@@ -1,5 +1,3 @@
-redis
-nginx
 minio/minio
 ghcr.io/sagernet/sing-box
 nyanmisaka/jellyfin:latest
