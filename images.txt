@@ -9,7 +9,6 @@ dreamacro/clash
 irinesistiana/mosdns
 metacubex/mihomo:latest
 ghcr.io/metacubex/metacubexd
-teddysun/shadowsocks-libev
 mobtitude/vpn-pptp
 hwdsl2/ipsec-vpn-server
 joplin/server:latest
