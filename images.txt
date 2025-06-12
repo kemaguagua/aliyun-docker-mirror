@@ -25,3 +25,5 @@ deluan/navidrome:latest
 alist666/alist:latest
 ghcr.io/c4illin/convertx
 jxxghp/moviepilot-v2:latest
+linuxserver/transmission:version-3.00-r8
+linuxserver/qbittorrent:5.1.0
