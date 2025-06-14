@@ -9,7 +9,7 @@ metacubex/mihomo:latest
 ghcr.io/metacubex/metacubexd
 mobtitude/vpn-pptp
 hwdsl2/ipsec-vpn-server
-joplin/server:latest
+joplin/server
 netdata/netdata:latest
 ghcr.io/wg-easy/wg-easy:14
 filebrowser/filebrowser
