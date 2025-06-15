@@ -1,14 +1,8 @@
 minio/minio
-ghcr.io/sagernet/sing-box
 nyanmisaka/jellyfin:latest
 ghcr.io/imagegenius/immich:latest
-gzxhwq/sing-box
-dreamacro/clash
-irinesistiana/mosdns
 metacubex/mihomo:latest
 ghcr.io/metacubex/metacubexd
-mobtitude/vpn-pptp
-hwdsl2/ipsec-vpn-server
 joplin/server
 netdata/netdata:latest
 ghcr.io/wg-easy/wg-easy
@@ -21,7 +15,7 @@ ghcr.io/openlistteam/openlist:latest
 ghcr.io/c4illin/convertx
 jxxghp/moviepilot-v2:latest
 linuxserver/transmission
-linuxserver/qbittorrent:5.1.0
+linuxserver/qbittorrent
 adminer:latest
 mariadb:11
 tensorchord/pgvecto-rs:pg16-v0.2.0@sha256:592cac7b88a6443a9b06dfc0248b847ee3b20971244be3ea9bf259b01fe1621e
