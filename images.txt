@@ -11,11 +11,10 @@ mobtitude/vpn-pptp
 hwdsl2/ipsec-vpn-server
 joplin/server
 netdata/netdata:latest
-ghcr.io/wg-easy/wg-easy:14
+ghcr.io/wg-easy/wg-easy
 filebrowser/filebrowser
 ghcr.io/metatube-community/metatube-server:latest
 likun7981/hlink:latest
-allanpk716/chinesesubfinder:v0.55.3
 xhongc/music_tag_web:latest
 deluan/navidrome:latest
 ghcr.io/openlistteam/openlist:latest
