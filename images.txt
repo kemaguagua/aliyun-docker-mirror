@@ -11,7 +11,7 @@ ghcr.io/metatube-community/metatube-server:latest
 likun7981/hlink:latest
 xhongc/music_tag_web:latest
 deluan/navidrome:latest
-ghcr.io/openlistteam/openlist:latest
+openlistteam/openlist
 ghcr.io/c4illin/convertx
 jxxghp/moviepilot-v2:latest
 linuxserver/transmission
