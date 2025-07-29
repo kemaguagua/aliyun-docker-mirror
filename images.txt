@@ -23,3 +23,4 @@ docker.io/valkey/valkey:8-bookworm@sha256:42cba146593a5ea9a622002c1b7cba5da7be24
 ghcr.io/wg-easy/wg-easy:15 
 hisatri/lrcapi:latest
 mysql:latest
+donaldzou/wgdashboard
