@@ -24,3 +24,4 @@ ghcr.io/wg-easy/wg-easy:15
 hisatri/lrcapi:latest
 mysql:latest
 donaldzou/wgdashboard
+gdy666/lucky
