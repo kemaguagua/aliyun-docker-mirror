@@ -26,3 +26,4 @@ mysql:latest
 donaldzou/wgdashboard
 gdy666/lucky
 amtoaer/bili-sync-rs:latest
+ghcr.io/imagegenius/immich:cuda
