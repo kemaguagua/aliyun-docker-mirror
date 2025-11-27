@@ -27,3 +27,4 @@ donaldzou/wgdashboard
 gdy666/lucky
 amtoaer/bili-sync-rs:latest
 ghcr.io/imagegenius/immich:cuda
+ghcr.io/immich-app/postgres:16-vectorchord0.3.0-pgvectors0.2.0
