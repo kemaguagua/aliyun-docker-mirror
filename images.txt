@@ -29,3 +29,5 @@ amtoaer/bili-sync-rs:latest
 ghcr.io/imagegenius/immich:cuda
 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
 ghcr.io/immich-app/postgres:16-vectorchord0.4.3-pgvectors0.2.0
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
