@@ -36,4 +36,4 @@ ghcr.io/immich-app/immich-machine-learning:release-openvino
 xiaozhu674/gameservermanager:latest
 lscr.io/linuxserver/duckdns:latest
 jeessy/ddns-go
-
+linuxserver/nextcloud
