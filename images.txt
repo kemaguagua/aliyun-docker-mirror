@@ -39,3 +39,4 @@ xiaozhu674/gameservermanager:latest
 lscr.io/linuxserver/duckdns:latest
 jeessy/ddns-go
 linuxserver/nextcloud
+containrrr/watchtower
