@@ -40,3 +40,4 @@ lscr.io/linuxserver/duckdns:latest
 jeessy/ddns-go
 linuxserver/nextcloud
 containrrr/watchtower
+jc21/nginx-proxy-manager:latest
