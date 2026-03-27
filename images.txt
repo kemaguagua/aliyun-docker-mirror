@@ -41,3 +41,4 @@ jeessy/ddns-go
 linuxserver/nextcloud
 containrrr/watchtower
 jc21/nginx-proxy-manager:latest
+openclaw/openclaw:latest
