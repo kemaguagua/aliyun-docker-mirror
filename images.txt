@@ -39,7 +39,7 @@ xiaozhu674/gameservermanager:latest
 lscr.io/linuxserver/duckdns:latest
 jeessy/ddns-go
 linuxserver/nextcloud
-containrrr/watchtower
+nickfedor/watchtower
 jc21/nginx-proxy-manager:latest
 ghcr.io/openclaw/openclaw:latest
 cloudflare/cloudflared:latest 
