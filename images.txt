@@ -38,6 +38,7 @@ ghcr.io/immich-app/immich-machine-learning:release-openvino
 xiaozhu674/gameservermanager:latest
 lscr.io/linuxserver/duckdns:latest
 jeessy/ddns-go
+postgres
 linuxserver/nextcloud
 nickfedor/watchtower
 jc21/nginx-proxy-manager:latest
@@ -45,3 +46,5 @@ ghcr.io/openclaw/openclaw:latest
 cloudflare/cloudflared:latest 
 netbirdio/netbird
 easytier/easytier:latest
+dimitri/pgloader:latest
+linuxserver/transmission:4.0.5
