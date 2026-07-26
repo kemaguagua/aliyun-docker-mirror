@@ -48,3 +48,4 @@ netbirdio/netbird
 easytier/easytier:latest
 dimitri/pgloader:latest
 linuxserver/transmission:4.0.5
+guohuiyuan/go-music-dl:latest
