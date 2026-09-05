@@ -50,3 +50,6 @@ dimitri/pgloader:latest
 linuxserver/transmission:4.0.5
 guohuiyuan/go-music-dl:latest
 hujinbo23/dst-admin-go
+ghcr.io/fpsacha/zomboid-panel:latest
+ghcr.io/fpsacha/zomboid-panel:aio
+ghcr.io/fpsacha/zomboid-panel:updater
